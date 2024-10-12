@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(135, 250, 141);
+    text-shadow: 2px 2px 3px rgb(0, 243, 77);
+    background-color: rgb(65, 65, 65);
+}
+h3{
+    text-align: center;
+    background-color: rgb(65, 65, 65);
+    color: rgb(135, 250, 141);
+    text-shadow: 2px 2px 3px rgb(0, 243, 77);
+}
+.p1{
+    color: lightgreen;
+    text-shadow: 2px 2px 3px rgb(0, 237, 0);
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.box{
+    background-color: rgb(200, 253, 192);
+   height: 150px;
+   width: 200px;
+   padding: 20px;
+   border: 3px solid rgb(0, 218, 77);
+   border-radius: 10px;
+}
+   
